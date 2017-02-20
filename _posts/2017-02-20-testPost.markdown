@@ -5,7 +5,7 @@ subtitle: "...I hope this works."
 date: 2017-02-20
 author: Sebastian
 category: test
-tags: test new DKM
+tags: first-post codenewbie
 finished: true
 ---
 
