@@ -4,8 +4,8 @@ title: "Hello World"
 subtitle: "...I hope this works."
 date: 2017-02-20
 author: Sebastian
-category: test
-tags: first-post codenewbie
+category: Path
+tags: codenewbie
 finished: true
 ---
 
@@ -23,17 +23,24 @@ I think that it would be good for me to begin documenting my progress so that I 
 ## Gen 
 
 
-I began my stop and go progress at age 13 by first finding a book at the library that had a title along the lines of
-> ### "How To Build A Web site"
+I began my stop and go progress at age 13 by first finding a book at the library that had a title along the lines of **"How To Build A Web site."**
 
-All I remember is that it gave decent amount of information about html and css but didn't go anywhere passed the basics.
+All I remember is that it gave decent amount of information about HTML and CSS but didn't go anywhere passed the basics.
 After I was done with that I thought that was it..... that the web consisted of tags, tables and css for flavor. I knew there were other languages but didn't think they had any impact on web development. It wasn't until much later that I learned about Javascript, PHP, MySQL, etc. 
 
 When I finally did hear about those I was quickly overwhelmed with questions like 
 
--What's a database?
+- What's a database?
 
--What are all of these question marks in the source code?
+- What are all of these question marks in the source code?
 
--Is it pronounced "My squal"?
+- Is it pronounced "My squal"?
 (I still call it My Squal anyways)
+
+Eventually I found out about JavaScript and decided to learn it. But soon found it quite challenging because I didn't really understand how to begin using it. So I gave up.
+
+Jump to a year after I stopped learning JS and suddenly I gained inspiration again. Then found it much too difficult because I didn't understand something else and decided maybe it wasn't for me.
+
+#### We seeing a pattern here?
+
+I don't want to sidetrack too much so I'll keep it brief but a lot of things were happening one after another that ultimately culminated in me <sub>"pausing"</sub> college.
