@@ -18,3 +18,22 @@ I think that it would be good for me to begin documenting my progress so that I 
 
 
 <sub>I may do music reviews here for now too.</sub>
+
+
+## Gen 
+
+
+I began my stop and go progress at age 13 by first finding a book at the library that had a title along the lines of
+> ### "How To Build A Web site"
+
+All I remember is that it gave decent amount of information about html and css but didn't go anywhere passed the basics.
+After I was done with that I thought that was it..... that the web consisted of tags, tables and css for flavor. I knew there were other languages but didn't think they had any impact on web development. It wasn't until much later that I learned about Javascript, PHP, MySQL, etc. 
+
+When I finally did hear about those I was quickly overwhelmed with questions like 
+
+-What's a database?
+
+-What are all of these question marks in the source code?
+
+-Is it pronounced "My squal"?
+(I still call it My Squal anyways)
