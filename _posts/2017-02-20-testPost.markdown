@@ -10,7 +10,7 @@ finished: true
 ---
 
 
-## Hello World
+# Hello World
 
 I have decided to start this blog after listening to a few guest off of the podcast [codenewbies](http://www.codenewbie.org/).
 
