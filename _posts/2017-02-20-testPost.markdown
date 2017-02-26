@@ -35,7 +35,7 @@ When I finally did hear about those I was quickly overwhelmed with questions lik
 - What are all of these question marks in the source code?
 
 - Is it pronounced "My squal"?
-(I still call it My Squal anyways)
+(I still call it My-Squal anyways)
 
 Eventually I found out about JavaScript and decided to learn it. But soon found it quite challenging because I didn't really understand how to begin using it. So I gave up.
 
@@ -43,4 +43,8 @@ Jump to a year after I stopped learning JS and suddenly I gained inspiration aga
 
 #### We seeing a pattern here?
 
-I don't want to sidetrack too much so I'll keep it brief but a lot of things were happening one after another that ultimately culminated in me <sub>"pausing"</sub> college.
+So here I am now, on my <em>n</em>th attempt to try and learn to code and change my life for the better.
+That's why I am here writing this blog. I need some way to be liable for my progress. I think that by documenting this process, I 
+will be able to look back in a few months, years, (decades? D:) and actually be proud of what I did/am doing.
+
+### I hope this works.
