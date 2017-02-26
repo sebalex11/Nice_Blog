@@ -12,7 +12,7 @@ finished: true
 
 # Hello World
 
-I have decided to start this blog after listening to a few guest off of the podcast [codenewbies](http://www.codenewbie.org/).
+I have decided to start this blog after listening to a few guests off of the podcast [codenewbies](http://www.codenewbie.org/) talk about their own blogs and it effected them in their code learning process.
 
 I think that it would be good for me to begin documenting my progress so that I can see where I've been and what I should eventually do next. This is also a good way for me to get some practice adding features to a site and how to utilize github cause I only know the basics at the moment. 
 
